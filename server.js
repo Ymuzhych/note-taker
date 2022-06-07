@@ -12,7 +12,7 @@ app.use(express.json());
 // Host public folder
 app.use(express.static('public'));
 
-// apiRoutes
+
 app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
