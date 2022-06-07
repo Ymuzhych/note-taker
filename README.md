@@ -24,3 +24,7 @@ App that user can use for writing, saving and deleting notes!
 ![](image/img2.jpg)
 * Saved notes and delete icons
 ![](image/img3.jpg)
+
+
+## Heroku 
+https://exr11.herokuapp.com/ 
