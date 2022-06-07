@@ -18,4 +18,5 @@ App that user can use for writing, saving and deleting notes!
 * THEN user am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Screenshots
-![Alt text](url/img/to/img1.jpg?raw=true "Homepage")
+* Homepage
+<img src="./img1.jpg" alt="Homepage"/>
