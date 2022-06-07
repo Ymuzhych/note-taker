@@ -1,15 +1,4 @@
 
- {
-  "notes": [
-    {
-      "title": "Note Taker!",
-      "text": "This application allows you to add and delete notes.",
-      "id": "0"
-    },
-    {
-      "title": "Deleting Notes",
-      "text": "You can delete notes by clicking the trash can next to the note you would like to delete.",
-      "id": "1"
-    }
-  ]
+{
+  "notesArray": []
 }
