@@ -19,4 +19,8 @@ App that user can use for writing, saving and deleting notes!
 
 ## Screenshots
 * Homepage
-<img src="./img1.jpg" alt="Homepage"/>
+![](image/img1.jpg)
+* Notes page with first note and add / save icon on the top
+![](image/img2.jpg)
+* Saved notes and delete icons
+![](image/img3.jpg)
